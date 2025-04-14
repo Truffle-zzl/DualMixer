@@ -1,5 +1,5 @@
 # DualMixer
-The code is being collated and will be made public as soon as possible
+The code is being collated and will be made public as soon as possible...
 
 # Copyright notice
 The original source of ETT: https://github.com/zhouhaoyi/ETDataset.
